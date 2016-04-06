@@ -1,0 +1,34 @@
+﻿Сборка начата 4/6/2016 11:42:58 PM.
+     1>Проект "C:\Users\vova\Desktop\kursovaja\kursovaja\kursovaja.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(51): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(152): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(155): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(168): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(172): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(183): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(186): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(187): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(191): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(194): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(195): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(223): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(240): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(257): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(274): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(308): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(309): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(314): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(315): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vova\desktop\kursovaja\kursovaja\исходный код.cpp(127): warning C4101: boo: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.exe" /INCREMENTAL /NOLOGO "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         kursovaja.vcxproj -> C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.exe
+     1>Сборка проекта "C:\Users\vova\Desktop\kursovaja\kursovaja\kursovaja.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.05
