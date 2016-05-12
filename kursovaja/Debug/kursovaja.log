@@ -1,0 +1,16 @@
+﻿Сборка начата 5/6/2016 1:10:34 AM.
+     1>Проект "C:\Users\vova\Desktop\kursovaja\kursovaja\kursovaja.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.exe" /INCREMENTAL /NOLOGO "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.lib" /MACHINE:X86 Debug\Description.obj
+         Debug\Difficultyn.obj
+         Debug\generation.obj
+         Debug\Menu.obj
+         Debug\main.obj
+         Debug\Options.obj
+         Debug\Restart.obj
+         kursovaja.vcxproj -> C:\Users\vova\Desktop\kursovaja\Debug\kursovaja.exe
+     1>Сборка проекта "C:\Users\vova\Desktop\kursovaja\kursovaja\kursovaja.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.84
